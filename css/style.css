@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+}
+.azul {
+    background-color: blue;
+}
+.altura1 {
+    height: 100px;
+}
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+button {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
+.altura2 {
+    height: 80px;
+}
+.rojo {
+    background-color: red;
+}
+.naranja {
+    background-color: orange;
+}
+.altura3 {
+    height: 200px;
+}
+.verde {
+    background-color: greenyellow;
+    padding: 10px;
+}
+.altura4 {
+    height: 250px;
+}
